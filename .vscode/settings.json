@@ -5,6 +5,7 @@
         "dotenv",
         "jsonify",
         "mytoken",
+        "ogimage",
         "pymongo",
         "thumbsup",
         "werkzeug"
